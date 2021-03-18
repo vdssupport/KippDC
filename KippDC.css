@@ -11,7 +11,7 @@ html {
 }
 
 .splash {
-  background-color: #fff;
+  background: #fff;
 }
 
 .splash .loading path {
@@ -19,7 +19,7 @@ html {
 }
 
 header.header-main {
-  background-color: #fff;
+  background: #fff;
   height:10.5em;
 }
 
