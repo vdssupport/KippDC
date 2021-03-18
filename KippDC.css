@@ -11,7 +11,7 @@ html {
 }
 
 .splash {
-  background-color: #{{Color_1}};
+  background-color: #fff;
 }
 
 .splash .loading path {
@@ -110,7 +110,7 @@ button.submit-login:focus
 }
 
 .user-info {
-    color: #fff;
+    color: #000;
 }
 
 .user-info a {
@@ -119,7 +119,7 @@ button.submit-login:focus
 
 .user-info a:hover,
 .user-info a:focus {
-    color: #fff;
+    color: #000;
 }
 
 .open-nav {
